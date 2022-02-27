@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character and qualifications of an honest loyal merchant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78578</idno>
+            <idno type="STC">Wing C1961</idno>
+            <idno type="STC">ESTC R223847</idno>
+            <idno type="EEBO-CITATION">45578233</idno>
+            <idno type="OCLC">ocm 45578233</idno>
+            <idno type="VID">172178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78578)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172178)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1774:22 or 2616:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character and qualifications of an honest loyal merchant.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Roberts,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>MDCLXXXVI [i.e. 1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed, and entred according to order."</note>
+                  <note>Reproduction of originals in the British Library and the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Business ethics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172178:1" rendition="simple:additions"/>
+            <p>THE CHARACTER AND QUALIFICATIONS OF AN <hi>Honeſt Loyal</hi> MERCHANT.</p>
+            <p>
+               <hi>Licenſed, and Entred according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by ROBERT ROBERTS. MDCLXXXVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172178:2"/>
+            <pb n="1" facs="tcp:172178:2" rendition="simple:additions"/>
+            <head>THE CHARACTER and QUALIFICATIONS OF AN HONEST LOYAL MERCHANT.</head>
+            <p>THE Loyal Honeſt MERCHANT is an Univerſal Tradeſman, and all the World is his <hi>Shop;</hi> A diligent Bee, ever buſie in bringing Honey to the <hi>Publick Hive;</hi> The Nations <hi>Purveyor,</hi> that improves its Superfluities, and ſupplies its Neceſſities; The ſame to the <hi>Body Politick,</hi> as the <hi>Liver, Veins,</hi> and <hi>Arteries</hi> are to the <hi>Natural;</hi> for he both raiſes and diſtributes <hi>Trea<g ref="char:EOLhyphen"/>ſure,</hi> the <hi>vital Blood</hi> of the Common-Weal. He is the <hi>Steward</hi> of the Kingdoms <hi>Stock,</hi> which by his good or ill management, does proportionably increaſe or lan<g ref="char:EOLhyphen"/>guiſh. One of the moſt uſeful members in a State, with<g ref="char:EOLhyphen"/>out whom it can never be <hi>Opulent</hi> in Peace, nor conſe<g ref="char:EOLhyphen"/>quently <hi>Formidable</hi> in War.</p>
+            <p>FOR he fetches in the good things of the remoteſt Regions to Enrich his Countrey, and by the <hi>honeſt Magick</hi> of Induſtry, removes the <hi>Mines of Peru,</hi> and the Golden <hi>Sands of Guinea</hi> whither he pleaſes. He can make a <hi>barren Heath,</hi> or a contemptible <hi>Bogg,</hi> (that has not
+<pb n="2" facs="tcp:172178:3"/>
+one <hi>Tree</hi> but what you muſt plant, nor one <hi>Stone</hi> but what you muſt bring thither, a place that has nothing of its own product worth ſpeaking of) to be yet the richeſt City for its Bigneſs, and the greateſt Store<g ref="char:EOLhyphen"/>houſe and Empory for all ſorts of Commodities in the World.</p>
+            <p>'Tis by his means,</p>
+            <lg>
+               <l>The Taſte of choice <hi>Arabian Spice</hi> we know,</l>
+               <l>Without thoſe ſcorching <hi>Heats</hi> that make it grow.</l>
+               <l>In <hi>Indian Gems,</hi> and <hi>Perſian Silks</hi> we ſhine;</l>
+               <l>And without <hi>Plan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing,</hi> drink of every <hi>Vine.</hi>
+               </l>
+            </lg>
+            <p>WITHOUT him the World would ſtill be a kind of <hi>Wilderneſs,</hi> one part unknown and unbeholding to the other; and if ever its remote Inhabitants <hi>met,</hi> it would be rather for miſchief and <hi>ſlaughter,</hi> than mutual aſſi<g ref="char:EOLhyphen"/>ſtance; Whereas <hi>his pains</hi> unites divided Empires, and thoſe that never beheld the <hi>ſame Stars;</hi> joins people ſe<g ref="char:EOLhyphen"/>parated by different Climates, Religions, and Policies, into one common Society; And by the Mediation of <hi>Commerce,</hi> makes the <hi>Sun-burnt Ethiopian</hi> contribute to the relief of the <hi>Frozen Muſcovite.</hi>
+            </p>
+            <p>HE is the true <hi>Orpheus</hi> that charms the <hi>Savages,</hi> and ſpreads Civility amongſt <hi>Barbarians;</hi> he communicates <hi>Arts</hi> and Sciences, and all uſeful <hi>Inventions</hi> both for Ne<g ref="char:EOLhyphen"/>ceſſity and Ornament: Unleſs he had advanced <hi>Navi<g ref="char:EOLhyphen"/>gation,</hi> Geography might have ſtill lain muffled in <hi>Strabo</hi>'s <hi>Cloak,</hi> and <hi>Aſtronomy</hi> been confin'd to <hi>Ptolemy</hi>'s narrow <hi>Horizon;</hi> we might to this day have believed the Poets Fables of <hi>Frigid</hi> and <hi>Torrid Zones</hi> uninhabita<g ref="char:EOLhyphen"/>ble; That there was no living (forſooth) under the <hi>Ae<g ref="char:EOLhyphen"/>quator,</hi> or within the <hi>Artick</hi> and <hi>Antartick</hi> Circles; Each
+<pb n="3" facs="tcp:172178:3"/>
+quick-ſighted <hi>Vergilius</hi> might have been in danger of Deprivation, for holding the ſuppoſed Hereſie of <hi>Anti<g ref="char:EOLhyphen"/>podes;</hi> The <hi>Art of Healing</hi> it ſelf had incurably lan<g ref="char:EOLhyphen"/>guiſht, our Apothecaries Shops been deſtitute of the beſt part of the <hi>Materia Medica,</hi> or choiceſt Rarities of the <hi>Tripple Kingdom;</hi> and an <hi>Engliſh Herbal</hi> might have bounded the ſtudies of our moſt Learned <hi>Colledg of Phy<g ref="char:EOLhyphen"/>ſicians.</hi>
+            </p>
+            <p>NAY further, there ſeems yet a more ſublime and myſterious deſignment of <hi>Providence</hi> attending his pains; for by eſtabliſhing an intercourſe with <hi>Infidels</hi> for Civil Traffick, a door is not ſeldom open'd to advance the <hi>Di<g ref="char:EOLhyphen"/>vine Intereſt;</hi> ſo that he may propagate our moſt <hi>Holy Faith,</hi> as well as vend our Temporal Commodities; and by penetrating both <hi>Indies,</hi> and (like the Sun) compaſ<g ref="char:EOLhyphen"/>ſing the World, adminiſters opportunities to divulge the Light of the <hi>Goſpel;</hi> whilſt our ſtupid Gallants think, he Voyages only to bring them Pearls to hang at the Ears of their <hi>Miſtreſſes, Mango's</hi> to reliſh their <hi>Mutton,</hi> or Pepper to ſtrew over their <hi>Cucumbers.</hi>
+            </p>
+            <p>IN theſe remote Negotiations, he counts it next to denying his <hi>Saviour,</hi> to occaſion by any diſhoneſt or <hi>im<g ref="char:EOLhyphen"/>moral</hi> Act, his Bleſſed Name to be <hi>Blaſphem'd amongſt the Gentiles.</hi> He would rather endure the <hi>Rack</hi> himſelf, than ſtretch a Piece of Cloath on the Tenters to make it three or four Yards longer, which when ſold to a <hi>Turk,</hi> ſhall in the next Shower, <hi>Cockle</hi> all up in a <hi>Ruck,</hi> cauſing the honeſt <hi>Muſulman</hi> to revile both the cheating Chriſtian and his Religion; Tho the later altogether undeſerved<g ref="char:EOLhyphen"/>ly, ſince It moſt ſeverely condemns Circumvention, and enjoyns not only ſtrict <hi>Fidelity</hi> and <hi>Juſtice</hi> in our deal<g ref="char:EOLhyphen"/>ings, but <hi>Charity</hi> too, towards all Mankind, even our moſt profeſſed Enemies.</p>
+            <p>
+               <pb n="4" facs="tcp:172178:4"/>THIS our <hi>Merchant</hi> is ſenſible of, and trembles at that WOE pronounced againſt thoſe by whom ſuch ſcanda<g ref="char:EOLhyphen"/>lous <hi>Offences come;</hi> Therefore keeps a <hi>double Guard</hi> on his Converſation abroad, as knowing that not only his own private Reputation, but the Honour of his <hi>Religion</hi> and <hi>Nation,</hi> in ſome meaſure depends thereon. His <hi>Faith</hi> is firmer than the <hi>Needle</hi> of his <hi>Compaſs,</hi> for it admits not of the leaſt <hi>Variation;</hi> his Devotion is one and the <hi>ſame,</hi> in all Countries, and his <hi>Zeal</hi> as great beyond, as on this ſide <hi>the Line;</hi> For like the <hi>Sun,</hi> tho he traverſe round the habitable Globe, yet ſtill he keeps conſtant to the <hi>Ecliptick</hi> of <hi>Truth,</hi> and will not Barter away <hi>the Pearl of Price,</hi> for any worldly gains, but uſes diligence in the firſt place to Enſure his <hi>Soul,</hi> dreading no <hi>Shipwrack</hi> ſo much as that <hi>of a good Conſcience.</hi>
+            </p>
+            <p>AND as Piety and <hi>Loyalty</hi> are inſeperable; ſo next to <hi>Sacriledg,</hi> (which is a robbing of God) he abhors <hi>Smuckling</hi> and <hi>Running of Goods,</hi> or <hi>Entring</hi> one Commo<g ref="char:EOLhyphen"/>dity for another that pays more, <hi>&amp;c.</hi> (Which is a rob<g ref="char:EOLhyphen"/>ing of Gods Vicegerent, the <hi>King;</hi>) His practice being a daily Comment on that Text, <hi>Render unto Coeſar the things that are Coeſars,</hi> &amp;c. He reckons all thoſe that uſe any ſuch unlawful Courſes, far from being either good <hi>Chriſti<g ref="char:EOLhyphen"/>ans</hi> or Loyal <hi>Subjects;</hi> Nay eſteems it not only a ſimple <hi>Cheat</hi> or bare <hi>Felony,</hi> by any Pretenſions, Concealments, Trick or Artifices to defraud his <hi>Sovereign</hi> of thoſe Dues the <hi>Law</hi> has ſetled, But a kind of unfledg'd <hi>Treaſon</hi> a<g ref="char:EOLhyphen"/>gainſt the Crown, ſince 'tis apparently a deſign to weaken and ſubvert the <hi>Royal</hi> Power, when we purloin the <hi>Reve<g ref="char:EOLhyphen"/>nues</hi> neceſſary for the ſupport of the <hi>Government.</hi>
+            </p>
+            <p>HE knows, That a Nation may be impoveriſht and ruin'd by a <hi>great Trade</hi> ill manag'd, as well as by <hi>too little;</hi> and that the Kingdom may <hi>get,</hi> even when the
+<pb n="5" facs="tcp:172178:4"/>
+Merchant <hi>loſes,</hi> and the Merchant often get when the Kingdom <hi>loſes;</hi> But for his own part is ſo paſſionate a Lover of his Country, as to poſtpone his private Advan<g ref="char:EOLhyphen"/>tages to the utility of the <hi>Publick;</hi> And therefore thinks himſelf obliged (whenever fit opportunity is offered) humbly to inform <hi>his Sovereign,</hi> or ſome of the Chief Miniſters of State, (or Parliament, when conven'd), of the <hi>Over-ballance of Importations</hi> from any Country; and of all Exportations or Importations of any ſort of Goods that are notably <hi>prejudicial</hi> or <hi>profitable</hi> to the Kingdom, to the end there may be <hi>wholſom Laws</hi> made to prevent the One, and encourage the Other;</p>
+            <p>FOR not only the increaſe or decay of <hi>Sea-men</hi> and <hi>ſhipping,</hi> (the Walls of our <hi>Britiſh</hi> Empire) The encouragement or diſcouragement of <hi>Manufacturers,</hi> and conſequently the <hi>Encreaſe of People,</hi> (which if duly em<g ref="char:EOLhyphen"/>ployed can never be too many, their multitudes being always the firſt <hi>Riches</hi> as well as <hi>Strength</hi> of any Nation) but alſo the Value of every Country-Gentlemans <hi>Lands,</hi> Rents, Corn, Cattel, <hi>&amp;c.</hi> does all ultimately depend upon, and are Influenced by It, and muſt either <hi>Riſe</hi> or <hi>Fall</hi> in equal proportion as Forreign Traffick is well or ill manag'd, clog'd, or Encouraged.</p>
+            <p>JUSTICE, ſquare Dealing, and a <hi>punctual Honeſty,</hi> are Eſſential Qualities in our true-bred <hi>Merchant.</hi> Hence his <hi>Books</hi> are allow'd <hi>Evidence,</hi> and lookt up<g ref="char:EOLhyphen"/>on as a kind of <hi>Records;</hi> and a ſmall <hi>Script</hi> of two or three Lines only under his hand, without either <hi>Witneſs</hi> or <hi>Seal,</hi> paſſes over the world for Thouſands of Pounds, as Authentick as Twenty <hi>Noverint univer<g ref="char:EOLhyphen"/>ſi's,</hi> or other long-winded Inſtruments, Sealed and Deli<g ref="char:EOLhyphen"/>vered in the Preſence of <hi>John Doe,</hi> and <hi>Richard Roe,</hi> and half the Pariſh beſides.</p>
+            <p>
+               <pb n="6" facs="tcp:172178:5"/>I AM not Ignorant that the Title of <hi>Merchant</hi> in ſome parts of the World, is uſurp'd by almoſt all ſorts of little People whoſe Buſineſs is to <hi>Buy and Sell;</hi> But properly (and wholly here in <hi>England</hi>) it belongs to none but ſuch as drive <hi>a forreign Trade,</hi> whereby they are vaſtly differenc'd from ordinary <hi>Shopkeepers and Retailers;</hi> Our <hi>Merchant</hi> is a perſon of <hi>Bulk,</hi> and con<g ref="char:EOLhyphen"/>ſiderable Figure in the Common-Weal, and muſt be En<g ref="char:EOLhyphen"/>dow'd with <hi>Qualifications</hi> proportionate.</p>
+            <p n="1">1. HE ſhould have a competent <hi>Fund,</hi> or Eſtate left him by his Anceſtors; for tho <hi>Credit</hi> (charily kept) be a main ſupport of, and Emprovement to his Affairs, yet <hi>It</hi> (alone) can never be a good beginning for ſuch an Employment; for if he have not a fair <hi>Viſible Stock</hi> to build on, every ſmall <hi>puff</hi> of misfortune will be apt to ſhock his Reputation.</p>
+            <p n="2">2. THERE ought alſo to be ſtrong <hi>Natural Parts,</hi> an Active Vigorous <hi>Body,</hi> to endure the Fatigues of Travel; and a ready comprehenſive Mind. A good doſe of <hi>Mercury</hi> ſhould go to his Conſtitution, To render him <hi>(etſi non verſuti, verſatilis tamen Ingenij)</hi> tho not of a crafty over-reaching, yet of a brisk <hi>accommoda<g ref="char:EOLhyphen"/>ting Genius,</hi> whereby he may apply himſelf with an ea<g ref="char:EOLhyphen"/>ſy obliging Addreſs to all ſorts of <hi>Humours</hi> or Acci<g ref="char:EOLhyphen"/>dents; yet this <hi>Mercury</hi> ſhould be fixt by <hi>Saturn,</hi> or the Gaiety of his Complexion ting'd with a daſh of <hi>Melancholy,</hi> to keep him from the vanity and extra<g ref="char:EOLhyphen"/>vagancies of a <hi>Town-Wit,</hi> and the beggarly fate of the <hi>everlaſting Tatlers;</hi> For <hi>Secrecy</hi> is a vertue almoſt as neceſſary to a <hi>Merchant</hi> as to a Stateſman.</p>
+            <p n="3">3. AS his Birth was Generous, ſo his <hi>Education</hi> was <hi>Liberal.</hi> He has <hi>Latin</hi> enough to underſtand an <hi>Au<g ref="char:EOLhyphen"/>thor,</hi> or Diſcourſe a <hi>Stranger;</hi> and to ſerve as a Prepa<g ref="char:EOLhyphen"/>rative
+<pb n="7" facs="tcp:172178:5"/>
+and Ground-Work for the reſt of his neceſſary Accompliſhments; But thinks it ſcarce worth the while to ſlave ſeven years under the Tyranny of the <hi>Ferula,</hi> meerly to obtain the skill of Hunting a <hi>Greek Deriva<g ref="char:EOLhyphen"/>tive,</hi> and Capping of Verſes.</p>
+            <p n="4">4. HE has the command of his <hi>Pen,</hi> and writes a fair Genteel Hand, not crampt up to a <hi>ſet Secretary</hi> like a Scriveners Boy; nor ſcrawling <hi>Long-Tails,</hi> like a Wench at a Boarding-School, but a neat charming <hi>mixture of Roman and Italian</hi> flowing with a kind of Artificial Negligence. [Of which in my Opinion Mr. <hi>Ayres</hi> by St. <hi>Pauls-School,</hi> is at leaſt <hi>one of the beſt Teach<g ref="char:EOLhyphen"/>ers</hi> about <hi>London.</hi>]</p>
+            <p n="5">5. HE is well-skill'd in that Foundation of Arts, the Science of <hi>Numbers:</hi> for as <hi>Merchandize</hi> (next after Religion and Juſtice) is the life of the Weal-Publick, ſo <hi>Practical Arithmetick</hi> is the Soul of Mer<g ref="char:EOLhyphen"/>chandize. But eſpecially he is throughly verſed in that noble method of <hi>Debtor and Creditor,</hi> uſed only by thoſe of his own Profeſſion. And his Books are kept with ſo much <hi>Order</hi> as well as <hi>Punctualneſs</hi> and Integrity, that 'tis the eaſieſt thing in the world to <hi>find out</hi> any thing inquired after; and as ſoon as found, it carries with it <hi>Demonſtration.</hi>
+            </p>
+            <p n="6">6. I NEED not tell you, that he is expert in the Na<g ref="char:EOLhyphen"/>ture and Forms of <hi>Charter-Parties, Bills of Lading, Invoyces, Contracts, Bills of Exchange, Policies of Enſu<g ref="char:EOLhyphen"/>rance,</hi> and the powers, obligations and effects of each of them. He knows the <hi>Meaſures, Weights,</hi> and <hi>Money</hi> of all forreign Countries, I mean the <hi>Coyns</hi> not only by their ſeveral Denominations, but alſo in their <hi>In<g ref="char:EOLhyphen"/>trinſick</hi> Values in weight and fineneſs compared with the <hi>Standard</hi> of his own Country.</p>
+            <pb n="8" facs="tcp:172178:6"/>
+            <p n="7">7. HE underſtands the <hi>Cuſtoms, Tolls, Taxes, Impoſi<g ref="char:EOLhyphen"/>tions</hi> and other Charges upon all ſorts of <hi>Merchandize</hi> Exported or Imported to and from forreign Countries, or at home. In what Commodities each Region or Province abounds; what convenient <hi>Ports</hi> they have, what <hi>Wares</hi> they want or are fond of; and how, from whence, and at what Rates, furniſht. As alſo what Goods are <hi>Contraband</hi> in times of War, and what others in peace are <hi>Prohibited</hi> (for Reaſons of State) in each place, to be Exported or Imported, and how the Rates of <hi>Exchange</hi> by Bills go from time to time.</p>
+            <p n="8">8. PARTICULARLY, as <hi>Owner,</hi> or Part-owner <hi>of Ships,</hi> he has an Inſight into the Goodneſs and Prices of all <hi>Materials</hi> requiſite for <hi>Building</hi> or Repairing them, and in the diverſe Workmanſhips thereof; as likewiſe for <hi>Maſts, Tackling, Cordage, Ord<g ref="char:EOLhyphen"/>nance, Victuals, Ammunition,</hi> &amp;c. Together with the Ordinary <hi>Wages</hi> of Commanders, Officers, and Mari<g ref="char:EOLhyphen"/>ners; To know upon what <hi>Rates</hi> and Conditions to <hi>Fraight</hi> his Ships, and Enſure his <hi>Adventures</hi> from one Port to another; and to be well acquainted with the Laws, Orders, and Cuſtoms of the <hi>Enſurance-Offices</hi> and <hi>Courts of Admiralty</hi> both here and beyond the Seas.</p>
+            <p n="9">9. BY his frequent Voyaging and ſeeing the Won<g ref="char:EOLhyphen"/>ders of the Lord in the great Deeps, he becomes skilful in <hi>Navigation,</hi> and not unacquainted with <hi>Aſtronomy;</hi> And by his Reſidence in ſeveral forreign parts, he at<g ref="char:EOLhyphen"/>tains to the ſpeaking of divers the moſt uſeful <hi>Langua<g ref="char:EOLhyphen"/>ges,</hi> and is (by the way) a diligent Obſerver of the Ordinary <hi>Revenues</hi> and <hi>Expences</hi> of thoſe Princes and States; Their ſtrength both by Sea and Land; Their <hi>Laws, Cuſtoms, Policies, Manners, Religion, Architecture,
+<pb n="9" facs="tcp:172178:6"/>
+Military Diſcipline, Arts, Manufactories, and other Obſer<g ref="char:EOLhyphen"/>vables,</hi> of which he is capable to give an Account on all occaſions for the good of his Country.</p>
+            <p>SO that I ſcarce know any other Profeſſion which lea<g ref="char:EOLhyphen"/>deth into ſo much Knowledge, either of the <hi>Great World,</hi> (as to its Scituation, Products and Mutual Dependence) or of the little World [MAN] (as to his Humours, Bigotries, Paſſions, Intrigues, and Blind-ſides) In the underſtanding of which <hi>two things</hi> ſeems to conſiſt (if I miſtake not) the main part of what we call <hi>civil Knowledg,</hi> Wiſdom, or Policy.</p>
+            <p>NOW if our <hi>Merchants</hi> Occupation be thus neceſſa<g ref="char:EOLhyphen"/>ry, and require ſuch <hi>Variety</hi> of excellent Qualifications, How can it but be <hi>Honourable</hi> too? For what can bet<g ref="char:EOLhyphen"/>ter Recommend any Calling to Wiſemens Regards, than its <hi>
+                  <g ref="char:V">Ʋ</g>ſefulneſs?</hi> Or be more <hi>Genteel</hi> and Glorious, than to ſupply the common <hi>Neceſſities</hi> of Mankind? Who is more to be eſteemed than <hi>the Man</hi> whoſe Induſtry un<g ref="char:EOLhyphen"/>derprops his <hi>Soveraigns Throne</hi> with Wealth, and at the ſame time furniſhes his <hi>Fellow-Subjects</hi> with Em<g ref="char:EOLhyphen"/>ployment, and the means of a comfortable Subſi<g ref="char:EOLhyphen"/>ſtence?</p>
+            <p>VAIN therefore, unjuſt, and ungrateful too, are their Clamours who would degrade this <hi>Noble</hi> Profeſſi<g ref="char:EOLhyphen"/>on as below a <hi>Perſon of Quality</hi> to Practice; Becauſe (Forſooth) 'tis <hi>Queſtuary,</hi> and reſpects <hi>Gain,</hi> (and I won<g ref="char:EOLhyphen"/>der what <hi>Profeſſion</hi> does not in ſome degree or other?) As if a <hi>Gentleman</hi> might Honourably <hi>Buy</hi> an <hi>Office,</hi> and <hi>Sell</hi> his <hi>Land</hi> or his <hi>Breath,</hi> but nothing elſe: As if a <hi>Lawyer,</hi> or a <hi>Phyſitian</hi> might <hi>Pocket his Fees</hi> (the juſt <hi>Engagements,</hi> or Remunerations of his well-intended En<g ref="char:EOLhyphen"/>deavours) without <hi>Sullying</hi> either his <hi>Family,</hi> or his <hi>Gown;</hi> and yet a <hi>Merchant</hi> ſhould utterly forfeit his <hi>Birthright,</hi>
+               <pb n="10" facs="tcp:172178:7"/>
+by Receiving <hi>a Bill</hi> of <hi>Exchange?</hi> I intend no odious Compariſons, or in the leaſt to Affront thoſe <hi>other</hi> moſt Worthy and Learned Profeſſions, but only to vindicate the Honour of <hi>Merchandize,</hi> and convince the World, That if a perſon of Quality ſhould happen to breed up his <hi>Son,</hi> or Match a <hi>Daughter</hi> therein, there's no dan<g ref="char:EOLhyphen"/>ger that they ſhould preſently be level'd with the com<g ref="char:EOLhyphen"/>mon Crowd, or Numbred with the <hi>Gaffers</hi> and the <hi>Gam<g ref="char:EOLhyphen"/>mers.</hi>
+            </p>
+            <p>FOR ſince a <hi>Perſon of Honour</hi> may without any diſparagement, improve his <hi>Lands,</hi> and let his <hi>Houſes,</hi> and ſell his <hi>Cattel</hi> for as much as he can get; And <hi>Buy</hi> his Proviſions, <hi>Furniture,</hi> and <hi>Equipage</hi> as cheap as he can; I am ſo dull as not to conceive whence any <hi>Stains</hi> ſhould reflect on his Scutcheon, If he ſhould happen to Equip a <hi>Ship,</hi> and ſend abroad Ten Thouſand Pounds worth of <hi>Cloth</hi> or <hi>Tin,</hi> and in return bring back a gallant <hi>Cargo</hi> of twice the value, to Enrich his Country as well as himſelf.</p>
+            <p>'TIS a ſmart, but I hope, cauſeleſs Reflection of a late Ingenious<note n="(*)" place="margin">
+                  <hi>Britan<g ref="char:EOLhyphen"/>nia Languens,</hi> or a diſcourſe of Trade, Printed, 1680.</note> Author. <q>We are (ſays he) ſtill pretending to be more Acurate in <hi>Logick</hi> and <hi>Philoſophy</hi> (which howſoever otherwiſe uſeful, do not add Twopence <hi>per Annum</hi> to the <hi>Riches</hi> of the Nation) we conti<g ref="char:EOLhyphen"/>nue to ſqueeze all the <hi>Sapleſs</hi> Papers and Fragments of Antiquity; we grow mighty well acquainted with the <hi>old Heathen gods,</hi> Towns, and People; we priſe our ſelves in fruitleſs curioſities; we turn our <hi>Lice</hi> and <hi>Fleas</hi> into <hi>Bulls</hi> and <hi>Pigs</hi> by our <hi>Magnifying Glaſ<g ref="char:EOLhyphen"/>ſes;</hi> we are ſearching for the World in the <hi>Moon</hi> with our <hi>Teleſcopes;</hi> we ſend to weigh the Air on the
+<pb n="11" facs="tcp:172178:7"/>
+top of <hi>Teneriff;</hi> we invent <hi>Paceing Saddles,</hi> and <hi>Gimcracks</hi> of all ſorts, which are voted Ingenuities, whilſt the ſolid and moſt uſeful Notions and Conſide<g ref="char:EOLhyphen"/>rations of <hi>Trade,</hi> are turn'd into a <hi>Ridicule,</hi> or out of Faſhion.</q>
+            </p>
+            <p>SURE I am, whatever low Conceits <hi>Ariſtotle</hi> or ſome other Pedants may have had of Merchandize in old times, when its Dignity was not known, and when indeed it was but <hi>Huckſtering</hi> and <hi>Pedlary</hi> in reſpect of what it has ſince arriv'd to; it muſt be avow'd, That 'tis long ſince become not unworthy of Perſons of the firſt Quality; not only the <hi>Magnifico</hi>'s of <hi>Luca,</hi> and <hi>Genoua,</hi> The <hi>Illuſtriſſimo</hi>'s of <hi>Venice,</hi> and the <hi>High Mighty</hi> Burghers of <hi>Holland,</hi> and ſuch like Republican Grandees, make it their buſineſs; But abſolute <hi>Sovereign Princes</hi> have courted it. <hi>Fer<g ref="char:EOLhyphen"/>dinando</hi> the firſt great Duke of <hi>Tuſcany,</hi> and his Suc<g ref="char:EOLhyphen"/>ceſſors, by their care and diligence to countenance Merchants in their Affairs, have ſo encreaſed the practice thereof, That there is ſcarce a <hi>Nobleman</hi> or <hi>Gentleman</hi> in all their Dominions that doth not Traf<g ref="char:EOLhyphen"/>fick either by himſelf or in Copartnerſhip, whereby within fifty or ſixty Years, the Trade to their Port of <hi>Legorn</hi> is ſo much augmented, that of a poor <hi>little Town</hi> (as ſome yet living can remember it) 'tis now become a fair and <hi>ſtrong City,</hi> and one of the moſt famous places for Trade in <hi>Europe.</hi>
+            </p>
+            <p>TO go higher, ſome of the moſt ſacred <hi>Crowned Heads</hi> of <hi>Chriſtendom,</hi> deſcended from, and ally'd to the moſt Ancient and Illuſtrious Families that the World can boaſt of; (and in that number principally our preſent moſt <hi>Auguſt and Gracious Sovereign</hi>), are ſo far from counting it any diminution to their <hi>Royal
+<pb n="12" facs="tcp:172178:8"/>
+Majeſties,</hi> That in the higheſt manner they endea<g ref="char:EOLhyphen"/>vour to encourage <hi>Trade,</hi> by intereſting Themſelves therein. Hence our <hi>Exchange</hi> is allow'd to wear that lofty Title of ROYAL; nor can the <hi>Statues</hi> of our <hi>deceaſed Princes</hi> any where be more Gloriouſly plac'd, (next to their Repoſitories in <hi>Sacred</hi> Ground) than in that <hi>Magnificent Rendezvouz of Merchants;</hi> To intimate, that the Advancement and promoting of <hi>Trade,</hi> will be the Honour of our <hi>Kings</hi> Living and Dead.</p>
+            <p>THE Truth is, The <hi>wiſeſt of Kings</hi> and Men has long ſince given his Judgment by his practice in this caſe; For <hi>Solomon</hi> himſelf could never have made <hi>Sil<g ref="char:EOLhyphen"/>ver and Gold to be as plenteous in Jeruſalem as Stones, and Cedars as Sycamores,</hi> if he had not firſt turned <hi>Merchant,</hi> join'd in <hi>Copartnerſhip</hi> with King <hi>Hiram,</hi> and ſet out a Navy at <hi>Ezion Geber</hi> (a Port in the <hi>Red Sea</hi>) which had the Advantage of Traffick to the <hi>In<g ref="char:EOLhyphen"/>dian</hi> Ocean, and from thence to <hi>Ophir</hi> (ſuppoſed to be the Iſle of <hi>Madagaſcar</hi>) whence they brought <hi>Gold</hi> and <hi>Silver</hi> and <hi>Elephants Teeth,</hi> as well as <hi>Apes</hi> and <hi>Pea<g ref="char:EOLhyphen"/>cocks.</hi>
+            </p>
+            <p>THEREFORE let none of our <hi>Nobility</hi> or <hi>Gen<g ref="char:EOLhyphen"/>try</hi> think it a diſgrace to Employ themſelves or their <hi>Sons</hi> in this NOBLE MYSTERY, which as 'tis moſt advantagious to their Countrey and themſelves, ſo the moſt excellent Perſonages have not diſdain'd to embark in it: For (as the judicious Mr. <hi>Mun</hi>
+               <note n="(⸫)" place="margin">
+                  <hi>Englands Treaſure,</hi> p. 155.</note> moſt truly ſays) <q>
+                  <hi>Fo<g ref="char:EOLhyphen"/>reign Trade,</hi> or the noble Profeſſion of the <hi>Merchant,</hi> is the great <hi>Revenue</hi> of the <hi>King,</hi> the
+<pb n="13" facs="tcp:172178:8"/>
+                  <hi>Honour</hi> of the Kingdom; The <hi>School</hi> of our Arts; The <hi>ſupply</hi> of our Wants; The employment of our <hi>Poor;</hi> The improvement of our <hi>Lands;</hi> The Nurſery of our <hi>Mariners;</hi> the Walls of the Kingdom; The means of our <hi>Treaſure;</hi> The ſinews of our <hi>Wars,</hi> and the <hi>Terror</hi> of our Enemies.</q>
+            </p>
+            <p>FOR if <hi>Forreign Commerce</hi> be of ſuch Import to all Nations, That the <hi>Wiſeſt</hi> Princes and States every where Endeavour (tho labouring under never ſo great diſadvantage) to Careſs as much as they can, and ob<g ref="char:EOLhyphen"/>tain the <hi>good Graces</hi> of a Lady, that is always attended with ſo vaſt a <hi>Dowry</hi> (for to ſpeak freely, <hi>that People</hi> that can get the <hi>Trade of the World,</hi> may quickly, with<g ref="char:EOLhyphen"/>out purſuing the toils of the <hi>Coeſars</hi> and the <hi>Alexanders,</hi> be, (in effect) <hi>Lords</hi> of their Neighbours, and give <hi>Laws</hi> to the World) much more then ought <hi>We</hi> the hap<g ref="char:EOLhyphen"/>py Inhabitants of <hi>Great-Brittain,</hi> highly to eſteem of <hi>Traffick,</hi> which God and Nature ſeem to have deſign'd for <hi>our peculiar Portion; England</hi> affording the <hi>moſt;</hi> and <hi>beſt</hi> natural Products and Materials for <hi>Manufactories;</hi> the moſt and beſt <hi>Ports;</hi> moſt commodiouſly Sci<g ref="char:EOLhyphen"/>tuate for Trade, either to the <hi>Streights,</hi> the <hi>Baltick,</hi> or either of the <hi>Indies;</hi> having alſo a <hi>numerous Peo<g ref="char:EOLhyphen"/>ple,</hi> ſecured in their <hi>Liberties and Properties</hi> by a <hi>Gracious Prince</hi> and moſt wholſome <hi>Laws; Seamen</hi> as Brisk, Active, Skilful, and <hi>Adventrous</hi> as ever Plough'd the Ocean; bleſt beſides, with the greateſt <hi>plenty</hi> of all ſorts of <hi>Proviſions,</hi> and a vaſt <hi>Fund</hi> of <hi>Land,</hi> by <hi>Taxes</hi> on which in time of <hi>War,</hi> the Government may be Supported and Defended, and (in a word) enjoying all other. Advantages that can poſſibly be im<g ref="char:EOLhyphen"/>agined Requiſite; ſo that it muſt certainly be our <hi>own
+<pb n="14" facs="tcp:172178:9"/>
+Default,</hi> if we are not poſſeſs'd of a greater and more Advantagious <hi>Trade</hi> than any of our Neighbours; and conſequently be not the <hi>Richeſt</hi> and moſt <hi>Conſiderable</hi> People in the World.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172178:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
